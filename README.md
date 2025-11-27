@@ -32,6 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedauroosa2&" alt="syedauroosa2" /></p>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 
 <!--
 **Syedauroosa2/Syedauroosa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
